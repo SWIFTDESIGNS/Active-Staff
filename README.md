@@ -5,5 +5,4 @@ Commands:
 /in 
 /out 
 
-
-This is only the first version and i do have many more idea's for the next version, i do hope that people do see the potential of this as i did.
+Made by Swift Designs
