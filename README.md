@@ -3,7 +3,8 @@ This script will allow staff to notify everyone in game that there are staff on 
 
 Commands:
 /in 
-/out The same except telling them that they are no longer active staff.
+/out 
+
 
 /in will notify the player that have gone active staff then waiting 3 seconds before letting the chat know the user has become active staff.
 /out is same except telling them that they are no longer active staff.
