@@ -1,5 +1,5 @@
 --Webhook
-local SL = "https://discord.com/api/webhooks/775792720110420000/LAOo2F5caf3gtkQugMmLn9lR7CgL0_gsE-f5Tv405eCV27_91mqj3c1COJYA3xFjz2O9"
+local SL = "Webhook link"
 
 PerformHttpRequest(SL, function(err, text, headers) end, 'POST', json.encode({username = "StaffSystem", embeds = active}), { ['Content-Type'] = 'application/json' })
 
