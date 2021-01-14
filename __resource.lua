@@ -1,8 +1,13 @@
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+description "ServerStorms"
+author "Swift Designs"
+version "1.0"
 
-client_script 'client.lua'
+server_scripts {
+  "Storm_sr.lua",
+  "Storm_config.lua"
+}
 
-server_script {
-    'server.lua',
-    'functions.lua'
+client_scripts {
+   "Storm_cl.lua",
+   "StormConfig.lua"
 }
